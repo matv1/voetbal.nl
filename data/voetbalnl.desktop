@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=voetbal.nl
+Comment= De bekende app voor voetballend Nederland nu ook Ubuntu Touch.
+Type=Application
+Icon=voetbalnl.png
+Exec=webapp-container --fullscreen --store-session-cookies --webappUrlPatterns=https?://www.voetbal.nl/* https://www.voetbal.nl
+Terminal=false
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#ffffff

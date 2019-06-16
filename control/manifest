@@ -1,0 +1,15 @@
+{
+    "description": "De bekende app voor voetballend Nederland nu ook voor Ubuntu Touch.",
+    "framework": "ubuntu-sdk-15.04.6",
+    "hooks": {
+        "voetbalnl": {
+            "apparmor": "voetbalnl.apparmor",
+            "desktop": "voetbalnl.desktop"
+        }
+    },
+    "installed-size": "76",
+    "maintainer": "Mathijs Veen <apps.matv1@gmail.com>",
+    "name": "voetbalnl.matvone",
+    "title": "voetbal.nl",
+    "version": "0.1"
+}
